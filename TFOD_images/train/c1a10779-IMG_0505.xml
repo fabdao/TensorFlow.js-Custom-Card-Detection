@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>c1a10779-IMG_0505.JPG</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>2448</width>
+<height>3264</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>♠ 5</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>837</xmin>
+<ymin>1071</ymin>
+<xmax>1477</xmax>
+<ymax>2004</ymax>
+</bndbox>
+</object>
+</annotation>
